@@ -1,0 +1,19 @@
+{
+	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"font_face": "Monaco",
+	"font_options":
+	[
+		"no_round",
+		"bold"
+	],
+	"font_size": 15,
+	"ignored_packages":
+	[
+		"Vintage",
+		"Package Control"
+	],
+	"overlay_scroll_bars": "enabled",
+	"tab_size": 2,
+	"theme": "Seti.sublime-theme",
+	"translate_tabs_to_spaces": true
+}

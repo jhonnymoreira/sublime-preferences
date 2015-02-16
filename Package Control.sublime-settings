@@ -1,0 +1,24 @@
+{
+	"in_process_packages":
+	[
+		"Package Control"
+	],
+	"installed_dependencies":
+	[
+		"0_package_control_loader",
+		"bz2"
+	],
+	"installed_packages":
+	[
+		"Color Highlighter",
+		"Emmet",
+		"Gutter Color",
+		"Origami",
+		"Package Control",
+		"Sass",
+		"Seti_UI",
+		"SideBarEnhancements",
+		"Stylus",
+		"Theme - Nexus"
+	]
+}
