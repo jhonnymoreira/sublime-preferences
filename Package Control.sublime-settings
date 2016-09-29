@@ -1,24 +1,32 @@
 {
+	"bootstrapped": true,
 	"in_process_packages":
 	[
-		"Package Control"
-	],
-	"installed_dependencies":
-	[
-		"0_package_control_loader",
-		"bz2"
 	],
 	"installed_packages":
 	[
+		"AlignTab",
+		"ApplySyntax",
+		"Better Rails",
+		"Better Ruby",
 		"Color Highlighter",
+		"Dictionaries",
+		"EditorConfig",
 		"Emmet",
 		"Gutter Color",
+		"JavaScriptNext - ES6 Syntax",
+		"Material Theme",
 		"Origami",
 		"Package Control",
+		"RSpec",
 		"Sass",
-		"Seti_UI",
+		"SCSS",
 		"SideBarEnhancements",
 		"Stylus",
-		"Theme - Nexus"
+		"Tmux"
+	],
+	"repositories":
+	[
+		"https://gist.githubusercontent.com/fnando/56393d3900af55bf9e94/raw/repositories.json"
 	]
 }
