@@ -1,19 +1,37 @@
 {
-	"color_scheme": "Packages/Seti_UI/Scheme/Seti_monokai.tmTheme",
+	"always_show_minimap_viewport": true,
+	"bold_folder_labels": true,
+	"color_scheme": "Packages/Material Theme/schemes/Material-Theme-Darker.tmTheme",
+	"dictionary": "Packages/Language - English/en_US.dic",
 	"font_face": "Monaco",
 	"font_options":
 	[
-		"no_round",
-		"bold"
+		"bold",
+		"gray_antialias",
+		"subpixel_antialias"
 	],
-	"font_size": 15,
+	"font_size": 12,
 	"ignored_packages":
 	[
-		"Vintage",
-		"Package Control"
+		"JavaScript",
+		"Ruby"
 	],
+	"indent_guide_options":
+	[
+		"draw_active"
+	],
+	"line_padding_bottom": 3,
+	"line_padding_top": 3,
+	"material_theme_accent_orange": true,
+	"material_theme_contrast_mode": true,
 	"overlay_scroll_bars": "enabled",
+	"rulers":
+	[
+		50,
+		72,
+		80
+	],
 	"tab_size": 2,
-	"theme": "Seti.sublime-theme",
+	"theme": "Material-Theme-Darker.sublime-theme",
 	"translate_tabs_to_spaces": true
 }
